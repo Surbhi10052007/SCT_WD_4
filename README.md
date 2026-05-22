@@ -19,4 +19,4 @@ A modern and responsive To Do List web application built using HTML, CSS, and Ja
 
 
 ## Author
-Surbhi Khosla
+Surbhi 
